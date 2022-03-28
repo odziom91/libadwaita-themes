@@ -5,6 +5,7 @@ All themes belong to their authors. Themes in this repo are "modded" to work wit
 ## Current "modded" themes
 Nordic - https://github.com/EliverLara/Nordic
 Dracula - https://github.com/dracula/gtk
+Colloid - https://github.com/vinceliuice/Colloid-gtk-theme
 ## How to install?
 1. Download zip file with theme.
 2. Backup ~/.config/gtk4.0 directory
